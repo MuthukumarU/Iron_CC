@@ -2,6 +2,7 @@
 
 To Run
 ------
+0. Download and unzip file
 1. Open visual studio
 2. Build project
 3. Run application
