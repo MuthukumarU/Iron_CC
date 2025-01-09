@@ -2,8 +2,8 @@
 
 To Run
 ------
-0. Download and unzip file
-1. Open visual studio
+
+1. Open visual studio and open Iron_Soft_Coding_Challenge.sln file
 2. Build project
 3. Run application
 4. Provide input
