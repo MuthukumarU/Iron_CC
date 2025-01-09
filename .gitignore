@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Iron_Soft_Coding_Challenge/Iron_Console/bin/Debug/net8.0
+/Iron_Soft_Coding_Challenge/Iron_Console/obj
+/Iron_Soft_Coding_Challenge/Iron_Tests/bin
+/Iron_Soft_Coding_Challenge/Iron_Tests/obj
